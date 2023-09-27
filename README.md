@@ -27,12 +27,12 @@ How and when to apply these new ideas in a real implementation project such as t
 ## Installation
 
 follow my git repo link in the html or deployed link to access the rest of my work both future and past.
-
+https://jakobpfeifer135.github.io/password-Generator/
 ## Usage
 
 
 
-   ![completed project](<./images/127.0.0.1_5500_index.html.png>)
+   ![completed project](<./assets/images/127.0.0.1_5500_index.html.png>)
 
 ## Credits
 
